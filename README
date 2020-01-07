@@ -1,0 +1,8 @@
+Project1
+ΑΘΗΝΑ ΒΕΚΡΑΚΗ
+1115201400020
+
+Η minisearch.c δέχεται ένα .txt αρχείο και μετά από τους κατάλληλους ελέγχους εισάγει κάθε document σε ένα map και κάθε λέξη σε ένα trie.
+Η υλοποίηση του trie γίνεται στο Trie.c, του posting list στο ListNode.c και του score στο Score.c.
+
+Το πρόγραμμα μεταγλωτίζεται με την εντολή make και τρέχει με την εντολή ./minisearch -i (txt file) ή ./minisearch -i (txt file) -k (number)
